@@ -2,6 +2,8 @@
 
 A modern web application for voice-based restaurant ordering using LiveKit's real-time communication platform.
 
+<img width="1511" alt="image" src="https://github.com/user-attachments/assets/1f7c462a-1816-4dc8-aa12-b70b5f64f9eb" />
+
 ## Features
 
 - 🎙️ Real-time voice interaction with AI agent
